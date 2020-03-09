@@ -1,4 +1,4 @@
 # Python-Test
-Python Coding
+**Python Coding**
 Working on learning the inns and outs of Python Coding
-From Beginner's Step-By-Step Coding Course
+*From Beginner's Step-By-Step Coding Course*
